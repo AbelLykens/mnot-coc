@@ -1,6 +1,7 @@
 # Code of Conduct voor MNOT community platforms
 
 ## Algemeen
+1. Boba heeft altijd gelijk (meestal)
 1. "Don't be an ass", ofwel: respecteer elkaar, houdt het vriendelijk en houd je aan de gangbare normen en waarden.
 1. Discriminatie, bedreigen, pestgedrag en phishing is niet toegestaan. Incidenten kun je melden bij een admin of in #lieve-admins.
 1. Post geen spam, recruitment berichten, NSFW-content of haatspraak.
